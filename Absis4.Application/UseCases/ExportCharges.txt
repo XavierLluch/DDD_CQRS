@@ -1,0 +1,36 @@
+*** USE CASE: Exportar Càrrecs ***
+
+Name: ExportChargesToExcel
+
+Abstract: Els usuaris demanen la extracció de la info de **càrrecs** per un determinat periòde de temps, un det. nombre d'emissors i clients.
+La info d'aquests càrrecs inclou info de facturació.
+
+Actors: 
+    USUARI és qualsevol persona conectada a l'apliacció. Segons el permissos que tingui podrà...
+        ... exportar o no
+        ... exportar càrrecs d'un det. emissors (Empreses emissores)
+        ... exportar càrrecs d'uns det. clients (Empreses clients)
+
+    CÀRREC és la informació sobre la quantitat d'euros que han de pagar-se per l'ús / consum d'un det. servei. Es determina qui és el client i qui 
+        l'emissor, la quantitat, el concepte pel qual es fa el càrrec i en quina data. Està represenatad per l'entitat CHARGE.
+
+    PERIÒDE DE CONSULTA és la data inici + data fí de la consulta de càrrecs del que hem de recuperar la info. Es calcula amb la **Value Date**
+        dels càrrecs...
+            ... potser 1 dia, 1 mes o tot un any
+
+    EMISSORS són les estructures (empresa o unitat emissora) que "emet" càrrecs a clients per la seva prestació de servei.
+
+    CLIENTS són les estructures (empresa, departament, client factura) que "rep" càrrecs pels serveis consumits.
+
+    INFO FACTURACIÓ: Informació relacionada amb el càrrec quan aquest es factura (impuestos, factura a la que pertenece,...)
+
+
+Accions:
+    LOGIN - Per a poder fer l'export de càrrecs l'usuari ha d'estar identificat
+    EXTREURE - Fer una consulta a la BBDD per extreure TOTS el càrrecs amb ValueDate (data valor) dins el rang de dates det. pel periòde de consulta,
+        d'un determinat grup de conceptes facturables i carregats a un det. nombre de centres client.
+
+    ** La informació aportada per la entitat càrrec directament és insuficient. S'ha de recuperar informació d'altres entitats relacionades amb els 
+        càrreecs directa o indirectament i que són necessàris per a la exportació de la info requerida.
+
+    

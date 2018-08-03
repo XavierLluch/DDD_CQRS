@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 436.94 315.5"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="CQRS Logica.svg"
+   inkscape:export-filename="C:\Desarrollo\ABSIS4\code\DocImgs\CQRS Logica.png"
+   inkscape:export-xdpi="27.7463"
+   inkscape:export-ydpi="27.7463">
+  <metadata
+     id="metadata70">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     id="namedview68"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="2.1157173"
+     inkscape:cx="106.09277"
+     inkscape:cy="187.31149"
+     inkscape:window-x="1592"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <style
+       id="style6">.cls-1{fill:none;stroke:#afafaf;stroke-miterlimit:10;stroke-width:6px;}.cls-2{fill:#afafaf;}.cls-3{fill:#3fa0ec;}.cls-4{fill:#8fb6cc;}.cls-5{fill:#2a3282;}.cls-11,.cls-6,.cls-8{fill:#fff;}.cls-10,.cls-7,.cls-8,.cls-9{isolation:isolate;}.cls-7{font-size:14.87px;fill:#213d47;}.cls-11,.cls-12,.cls-7,.cls-8,.cls-9{font-family:ArialMT, Arial;}.cls-11,.cls-8{font-size:18px;}.cls-12,.cls-9{font-size:18.04px;fill:#0070c0;}.cls-13{letter-spacing:-0.02em;}</style>
+  </defs>
+  <title
+     id="title8">OJ103514692</title>
+  <line
+     style="fill:none;stroke:#afafaf;stroke-width:5.51753569px;stroke-miterlimit:10"
+     id="line11"
+     y2="222.39388"
+     x2="313.28912"
+     y1="225.91171"
+     x1="95.865189"
+     class="cls-1" />
+  <polygon
+     style="fill:#afafaf"
+     id="polygon13"
+     points="91.76,240.11 78.7,232.83 91.54,225.16 91.76,240.11 "
+     class="cls-2"
+     transform="matrix(0.9230871,0,0,0.91610471,13.285813,12.76163)" />
+  <line
+     style="fill:none;stroke:#afafaf;stroke-width:5.51753569px;stroke-miterlimit:10"
+     id="line15"
+     y2="182.63492"
+     x2="332.67395"
+     y1="77.979126"
+     x1="332.67395"
+     class="cls-1" />
+  <polygon
+     style="fill:#afafaf"
+     id="polygon17"
+     points="338.52,183.24 346,196.19 353.48,183.24 338.52,183.24 "
+     class="cls-2"
+     transform="matrix(0.9230871,0,0,0.91610471,13.285813,12.76163)" />
+  <rect
+     style="fill:#3fa0ec"
+     id="rect19"
+     ry="7.3288379"
+     rx="7.384697"
+     height="65.648064"
+     width="106.84733"
+     y="191.40205"
+     x="109.34226"
+     class="cls-3" />
+  <line
+     style="fill:none;stroke:#afafaf;stroke-width:5.51753569px;stroke-miterlimit:10"
+     id="line21"
+     y2="43.900028"
+     x2="300.86438"
+     y1="47.41787"
+     x1="83.440437"
+     class="cls-1" />
+  <polygon
+     style="fill:#afafaf"
+     id="polygon23"
+     points="309.46,41.5 322.3,33.83 309.24,26.54 309.46,41.5 "
+     class="cls-2"
+     transform="matrix(0.9230871,0,0,0.91610471,13.285813,12.76163)" />
+  <rect
+     style="fill:#3fa0ec"
+     y="12.76163"
+     id="rect27"
+     ry="7.3288379"
+     rx="7.384697"
+     height="65.648064"
+     width="106.84733"
+     x="109.34226"
+     class="cls-3" />
+  <path
+     style="fill:#2a3282"
+     inkscape:connector-curvature="0"
+     id="path29"
+     d="m 308.82138,57.650761 0,9.335107 c 0,4.360658 8.79702,9.216013 20.37253,10.077152 l 7.65239,0 c 11.57551,-0.815334 20.37253,-4.681295 20.37253,-9.216014 l 0,-44.156247 c 0,-4.855355 -10.92935,-9.545811 -24.29565,-9.545811 -13.3663,0 -24.12027,4.360658 -24.12027,9.390073 l 0,34.11574 z"
+     class="cls-5" />
+  <ellipse
+     style="fill:#ffffff"
+     id="ellipse31"
+     ry="5.9546804"
+     rx="18.923286"
+     cy="23.452574"
+     cx="333.00626"
+     class="cls-6" />
+  <path
+     style="fill:#2a3282"
+     inkscape:connector-curvature="0"
+     id="path33"
+     d="m 308.82138,236.29118 0,9.37175 c 0,4.36066 8.79702,9.21602 20.37253,10.07715 l 7.65239,0 c 11.57551,-0.81533 20.37253,-4.68129 20.37253,-9.21601 l 0,-44.15625 c 0,-4.85535 -10.92935,-9.54581 -24.29565,-9.54581 -13.3663,0 -24.12027,4.36066 -24.12027,9.39008 l 0,34.07909 z"
+     class="cls-5" />
+  <ellipse
+     style="fill:#ffffff"
+     id="ellipse35"
+     ry="5.9546804"
+     rx="18.923286"
+     cy="202.09299"
+     cx="333.00626"
+     class="cls-6" />
+  <rect
+     style="fill:#3fa0ec"
+     id="rect37"
+     ry="7.3288379"
+     rx="7.384697"
+     height="45.06319"
+     width="99.638023"
+     y="106.29591"
+     x="283.18729"
+     class="cls-3" />
+  <text
+     style="font-size:13.67429256px;font-family:ArialMT, Arial;isolation:isolate;fill:#0070c0;fill-opacity:1;"
+     id="text40"
+     transform="scale(1.0038037,0.99621073)"
+     class="cls-7"
+     x="24.472851"
+     y="133.8741">Cliente</text>
+  <text
+     style="font-size:16.55260658px;font-family:ArialMT, Arial;isolation:isolate;fill:#ffffff"
+     id="text42"
+     transform="scale(1.0038037,0.99621073)"
+     class="cls-8"
+     x="306.16144"
+     y="132.94531">Evento</text>
+  <text
+     style="font-size:16.58939171px;font-family:ArialMT, Arial;isolation:isolate;fill:#0070c0"
+     id="text44"
+     transform="scale(1.0038037,0.99621073)"
+     class="cls-9"
+     x="227.93198"
+     y="31.762907">Escribir</text>
+  <g
+     style="isolation:isolate"
+     id="g46"
+     class="cls-10"
+     transform="matrix(0.9230871,0,0,0.91610471,13.285813,12.76163)">
+    <text
+       style="font-size:18.04000092px;font-family:ArialMT, Arial;isolation:isolate;fill:#0070c0"
+       id="text48"
+       transform="translate(245.48,213.61)"
+       class="cls-9">Leer</text>
+  </g>
+  <text
+     style="font-size:16.58939171px;font-family:ArialMT, Arial;isolation:isolate;fill:#0070c0"
+     id="text50"
+     transform="scale(1.0038037,0.99621073)"
+     class="cls-9"
+     x="341.97025"
+     y="180.43291">Actualizar</text>
+  <text
+     style="font-size:16.55260658px;font-family:ArialMT, Arial;fill:#ffffff"
+     id="text52"
+     transform="scale(1.0038037,0.99621073)"
+     class="cls-11"
+     x="122.8689"
+     y="39.836899">Modelo de <tspan
+   id="tspan54"
+   y="59.700027"
+   x="123.3379">comandos</tspan>
+</text>
+  <text
+     style="font-size:16.55260658px;font-family:ArialMT, Arial;fill:#ffffff"
+     id="text56"
+     transform="scale(1.0038037,0.99621073)"
+     class="cls-11"
+     x="123.78849"
+     y="218.77058">Modelo de <tspan
+   id="tspan58"
+   y="238.63371"
+   x="127.47604">consultas</tspan>
+</text>
+  <text
+     style="font-size:16.58939171px;font-family:ArialMT, Arial;fill:#0070c0"
+     id="text60"
+     transform="scale(1.0038037,0.99621073)"
+     class="cls-12"
+     x="313.61929"
+     y="277.65189">
+    <tspan
+       style="letter-spacing:-0.02em"
+       id="tspan62"
+       class="cls-13">V</tspan>
+    <tspan
+       id="tspan64"
+       y="277.65189"
+       x="324.3877">ista</tspan>
+    <tspan
+       id="tspan66"
+       y="297.561"
+       x="282.58316">materializada</tspan>
+  </text>
+  <rect
+     style="fill:none;fill-opacity:1;stroke:#3fa0ec;stroke-width:3.90907168;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect3412"
+     width="67.680305"
+     height="240.19862"
+     x="13.661471"
+     y="14.847262"
+     ry="9.6465311" />
+</svg>

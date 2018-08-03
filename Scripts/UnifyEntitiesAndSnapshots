@@ -1,0 +1,4 @@
+/* Modificacions a la taula DIVISIONS */
+
+USE [ABSIS4]
+ALTER TABLE dbo.DIVISIONS ADD [code] nvarchar(MAX) NULL, [name] nvarchar(50) NULL, VT_start_date date NULL, VT_end_date	date NULL

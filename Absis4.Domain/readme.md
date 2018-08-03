@@ -1,0 +1,1 @@
+## **1\. Domain: Enterprise Business Rules (Entities)**
